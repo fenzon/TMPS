@@ -1,5 +1,5 @@
 # TMPS
-# Lab_1_TMPS - Calculator App in Python
+# Lab_1_TMPS 
 
 ## by Borta Nicolae
 ## Task : Build an app that will follow SOLID Principles using an OOP programing language
